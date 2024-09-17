@@ -1,0 +1,12 @@
+body{
+    background-color: #73000a;
+    font-family: "Lucida Console","Courier New", monospace;
+}
+h1{
+    text-align: center;
+    color: black;
+}
+h2{
+    text-align:left;
+    color:white;
+}
