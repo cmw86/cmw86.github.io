@@ -21,3 +21,32 @@ padding: 20px 10px;
 background: rgb(255, 255, 255);
 border-radius: 25%;
 }
+.project img {
+    width: 400px;
+    height: 600px;
+    border-radius: 25%;
+    image-orientation: center;
+    border: 2px solid rgb(0, 0, 0);
+    }
+
+.about{
+    display:flex;
+    flex-wrap:wrap;
+    margin-right: 100px;
+    margin-left: 100px;
+    justify-content: center;
+ }
+ .about img {
+    width: 150px;
+    height: 200px;
+    border-radius: 25%;
+    border: 2px solid rgb(0, 0, 0);
+}
+
+.about p {
+    width:50%;
+    text-align: center;
+    margin: auto;
+    line-height: 125%;
+    }
+
